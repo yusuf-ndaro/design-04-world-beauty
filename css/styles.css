@@ -1,0 +1,33 @@
+*{
+box-sizing: border-box;
+border: 0;
+margin: 0;
+padding: 0;
+}
+
+img{
+max-width: 100%;
+
+}
+.column-2{
+border: ;
+}
+.upper-text{
+margin-bottom: 3rem;
+}
+
+button{
+background-color: black;
+border-radius: 16px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 6px;
+padding-right: 6px;
+color: white;
+margin-top: 0.5rem;
+}
+.wrapper{
+margin-top: 1rem;
+display: flex;
+gap: 2rem;
+}
